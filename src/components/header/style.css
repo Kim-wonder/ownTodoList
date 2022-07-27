@@ -1,0 +1,13 @@
+.header {
+    background-color: #fee;
+    height : 40px;
+    display : flex;
+    justify-content : space-between;
+    align-items : center;
+    margin: 5px 5px 10px 5px;
+    padding: 15px 30px;  
+    border-radius: 40px;
+    color: rgb(165, 151, 151) ;
+    font-size: 110%;
+    gap: 50px;
+}

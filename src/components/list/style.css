@@ -1,0 +1,26 @@
+.list-container {
+    padding: 5px 10px;
+}
+
+.list-title {
+    background-color: rgb(243, 231, 255);
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 20px;
+    border-radius: 5px;
+    color: rgb(165, 151, 151) ;
+}
+
+.list-wrapper {
+    background-color: rgb(250, 245, 252);
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    padding: 10px 0 20px 20px;
+    padding-left: 20px;
+    border-radius: 5px;
+    height: 200px;
+    color: rgb(88, 81, 81) ;
+}

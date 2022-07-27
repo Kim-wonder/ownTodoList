@@ -1,0 +1,44 @@
+
+
+
+.add-form {
+    background-color: rgb(225, 231, 250);
+    height : 40px;
+    display : flex;
+    justify-content : space-between;
+    align-items : center;
+    margin: 5px 5px 10px 5px;
+    padding: 15px;  
+    border-radius: 40px;
+    color: rgb(165, 151, 151) ;
+    font-size: 120%;   
+}
+
+.input-group {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+    padding-left: 15px;
+}
+
+.add-input {
+    width: 200px;
+    min-width: 100px;
+    height: 23px;
+    border: 1px;
+    background-color: rgb(255, 255, 255);   
+}
+
+.add-button {
+    border: none;
+    height: 38px;
+    border-radius: 40px;
+    background-color: rgb(165, 164, 236);
+    width: 120px;
+    color: #fff;
+    font-weight: 400;
+    font-size: medium;
+    padding: 0 10px;
+    margin-right: 20px;
+}
